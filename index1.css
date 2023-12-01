@@ -1,0 +1,59 @@
+/*.modal-wrapper{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color:rgba(189, 189, 189, 0.9);
+}
+.model-container{
+    position: fixed;
+    
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,10%);
+    padding: 2rem 3rem;
+    border-radius: 0.5rem;
+    left: 50%;
+
+    background-color:white;
+}
+.model-container1{
+    position: fixed;
+    
+    top: 0%;
+    transform: translate(-50%,100%);
+    padding: 2rem 3rem;
+    border-radius: 0.5rem;
+
+    background-color:white;
+}
+.login{
+    position: fixed;
+    
+    top: 0%;
+    left: 50%;
+    transform: translate(-70%,20%);
+    padding: 2rem 3rem;
+    border-radius: 6px;
+   
+
+    background-color:white;
+}
+.nav{
+
+    position: fixed;
+    
+    top: 20%;
+    left: 20%;
+
+    transform: translate(-50%,20%);
+    padding: 2rem 3rem;
+    border-radius: 33333px;
+    color: blue;
+
+    border-color: black;
+    background-color:primary;
+
+}
+/*  l,d*/

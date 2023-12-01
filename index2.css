@@ -1,0 +1,11 @@
+.model-container1{
+    position: fixed;
+    
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%,100%);
+    padding: 2rem 3rem;
+    border-radius: 0.5rem;
+
+    background-color:rgb(156, 8, 8);
+}
